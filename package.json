@@ -8,13 +8,13 @@
     "postcss",
     "npm"
   ],
-  "homepage": "https://github.com/202420505/Lavender.css#readme",
+  "homepage": "https://github.com/202420505/lavender.css#readme",
   "bugs": {
-    "url": "https://github.com/202420505/Lavender.css/issues"
+    "url": "https://github.com/202420505/lavender.css/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/202420505/tree.css.git"
+    "url": "git+https://github.com/202420505/lavender.css.git"
   },
   "license": "ISC",
   "author": "Q",
