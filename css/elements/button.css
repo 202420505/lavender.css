@@ -1,6 +1,6 @@
 button {
-    background-color: var(--green);
-    color: var(--button-text-color, #ffffff);
+    background-color: var(--forestgreen);
+    color: #ffffff;
     border: none;
     padding: 10px 20px;
     border-radius: 4px;
